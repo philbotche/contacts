@@ -13,4 +13,6 @@ On pourra voir la liste des contacts, consulter un contact.
 
 Cette application sera développé en POO (Programmation Orienté Objet), et les langages utilisés seront PHP et SQL(MYSQL).
 
+IL faut créer une branche pour votre travail et ne pas envoyer votre travail sur la branch principale.
+
 Bon Travail !!!
